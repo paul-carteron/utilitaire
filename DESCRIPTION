@@ -4,10 +4,13 @@ Title: Utilitary functions
 Version: 0.1.0
 Author: CARTERON Paul
 Maintainer: CARTERON Paul <carteronpaul@gmail.com>
-Description: Provide functions to simplify your work
+Description: Provide functions to simplify your work.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
 URL: https://github.com/paul-carteron/Utilitaire
 BugReports: https://github.com/paul-carteron/Utilitaire/issues
+Imports: 
+    xlsx,
+    grDevices
